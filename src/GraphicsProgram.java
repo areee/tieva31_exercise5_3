@@ -1,9 +1,12 @@
 
+import java.awt.event.MouseMotionListener;
+
+
 /**
  *
  * @author ylhaart
  */
-public class GraphicsProgram extends javax.swing.JFrame {
+public class GraphicsProgram extends javax.swing.JFrame{
 
     /**
      * Creates new form GraphicsProgram
